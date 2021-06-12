@@ -1,0 +1,48 @@
+{
+  "name": "LozBey",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NullMan, TwoPage",
+  "dependencies": {
+    "bmp-js": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.1",
+    "common-tags": "^1.8.0",
+    "connect-flash": "^0.1.1",
+    "deasync": "^0.1.21",
+    "discord.js": "^12.5.3",
+    "efdb": "^1.1.9",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "flash": "^1.1.0",
+    "graceful-fs": "^4.2.6",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "opusscript": "0.0.8",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.2",
+    "snekfetch": "^4.0.4",
+    "url": "^0.11.0",
+    "yaml": "^1.10.2",
+    "parse-ms": "^3.0.0",
+    "discord-buttons": "^3.2.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
